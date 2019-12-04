@@ -1,0 +1,5 @@
+laba\controllers\DoctorsController.class
+laba\dao\PatientDaoImp.class
+laba\service\PatientServiceImp.class
+laba\dao\PatientDao.class
+laba\dao\ProfessionDaoImp.class
